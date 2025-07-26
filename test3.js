@@ -7,4 +7,4 @@ function addEvenNumbers(a, b) {
 }
 
 // Example usage:
-console.log(addEvenNumbers(4, 6)); 
+console.log(addEvenNumbers(4, 6));
