@@ -4,3 +4,5 @@ function getMultipleOf2(number) {
 
 // Example usage:
 console.log(getMultipleOf2(7)); //
+
+Output: 14
